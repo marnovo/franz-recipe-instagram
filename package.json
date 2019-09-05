@@ -2,12 +2,12 @@
   "id": "instagram",
   "name": "Instagram",
   "version": "0.1",
-  "description": "Instagram",
+  "description": "Instagram and Instagram Direct Messages",
   "main": "index.js",
   "author": "Marcelo Novaes <mnovaes@mnovaes.com>",
   "license": "MIT",
   "repository": "https://github.com/marnovo/franz-recipe-instagram",
   "config": {
-    "serviceURL": "https://instagram.com"
+    "serviceURL": "https://www.instagram.com/direct/inbox/"
   }
 }
