@@ -8,6 +8,6 @@
   "license": "MIT",
   "repository": "https://github.com/marnovo/franz-recipe-instagram",
   "config": {
-    "serviceURL": "https://www.instagram.com/direct/inbox/"
+    "serviceURL": "https://www.instagram.com/"
   }
 }
